@@ -1,1 +1,1 @@
-# 1108
+Analysis code and results for "The Divergence Between Obesity Burden and Nursing Workforce Distribution: A Global Analysis of Resource Allocation and Efficiency." Reproduces the obesity Kuznets curve, DEA/Malmquist efficiency, and Simar-Wilson analyses for 204 countries, 1990-2023.
